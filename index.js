@@ -1,7 +1,7 @@
 exports.handler = (event, context, callback) => {
   const axios = require('axios');
   const IsraeliCities = require('./israelis_cities.json');
-
+  // PARAMS:
   const API_KEY = event.api_key;
   const city_name = event.city_name;
   // convert city name to Title Case - that is the naming convention in the cities file.
