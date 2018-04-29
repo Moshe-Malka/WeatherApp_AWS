@@ -1,0 +1,23 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moshe-Malka/FullstackExam.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Moshe-Malka/FullstackExam/issues"
+  },
+  "homepage": "https://github.com/Moshe-Malka/FullstackExam#readme",
+  "description": ""
+}
